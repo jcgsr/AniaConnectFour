@@ -1,0 +1,29 @@
+{
+  "name": "aniaconnectfour",
+  "version": "1.0.0",
+  "description": "tutorial on connect four game by ania",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgsr/AniaConnectFour.git"
+  },
+  "keywords": [
+    "ania",
+    "connect",
+    "four",
+    "game",
+    "js"
+  ],
+  "author": "jovane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcgsr/AniaConnectFour/issues"
+  },
+  "homepage": "https://github.com/jcgsr/AniaConnectFour#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  }
+}
